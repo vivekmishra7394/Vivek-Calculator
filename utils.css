@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+    font-size: xx-large;
+    font-style: bold;
+}
+.whole{
+    overflow:scroll;
+    height: 100%;
+    background-color: rgb(51, 51, 51);
+}
+.bg-red{
+    background-color: red;
+}
+.bg-offwhite{
+    background-color: rgb(146, 146, 146);
+}
+.bg-orange{
+    background-color: orange;
+}
+.mx-auto{
+    margin:auto
+}
+.flex{
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
